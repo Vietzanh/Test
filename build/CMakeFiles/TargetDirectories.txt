@@ -1,0 +1,4 @@
+/home/vietanh/dev/Network Programming/room/build/CMakeFiles/server.dir
+/home/vietanh/dev/Network Programming/room/build/CMakeFiles/client.dir
+/home/vietanh/dev/Network Programming/room/build/CMakeFiles/edit_cache.dir
+/home/vietanh/dev/Network Programming/room/build/CMakeFiles/rebuild_cache.dir
